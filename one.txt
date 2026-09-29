@@ -1,3 +1,6 @@
 one
+<<<<<<< HEAD
 two
 three
+=======
+>>>>>>> 3b0f5bdd54a803df31126d2b02affbed9ac7731f
